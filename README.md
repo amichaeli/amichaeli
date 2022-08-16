@@ -1,0 +1,3 @@
+- 👋 Hi, I’m Alon Michaeli
+- 👀 I’m interested in AI and developing algorithms. 
+- 🌱 I’m currently learning Python and JavaScript.
